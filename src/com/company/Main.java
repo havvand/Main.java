@@ -2,6 +2,8 @@ package com.company;
 
 public class Main {
 
+    // With added comment for GitHub test.
+
     public static void main(String[] args)
     {
 	// write your code here

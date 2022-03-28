@@ -3,7 +3,6 @@ package com.company;
 public class Main {
 
     // With added comment for GitHub test.
-    /*TEEEEEEEEEEEEEEEEEEEEEST*/
 
     public static void main(String[] args)
     {
